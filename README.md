@@ -11,8 +11,8 @@ This repository contains a curated list of web development assignments ranging f
 | No. | Assignment Title                    | Tech Stack                 | Status         |
 | --- | ----------------------------------- | -------------------------- | -------------- |
 | 01  | **HTML Formatting Table**           | HTML5                      | ✅ Done        |
-| 02  | **Personal Portfolio Page**         | HTML, CSS, Bootstrap       | ✅ Done        |
-| 03  | **Dynamic E-Commerce Web App**      | JS, Bootstrap              | 🏗️ In Progress |
+| 02  | **Personal Portfolio Page**         | HTML, CSS, Bootstrap       | 🏗️ In Progress        |
+| 03  | **Dynamic E-Commerce Web App**      | JS, Bootstrap              | 📅 Planned  |
 | 04  | **Data Visualization Dashboard**    | Chart.js / D3.js           | 📅 Planned     |
 | 05  | **College/Travel Agency Website**   | Node.js, Express, MongoDB  | 📅 Planned     |
 | 06  | **Online Appointment/Sales Portal** | Node.js, Express, NoSQL    | 📅 Planned     |
